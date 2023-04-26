@@ -1,3 +1,6 @@
+Szybki podgląd projektu:
+https://wokwi.com/projects/321618256628548180
+
 Instrukcja obsługi – Zdalnie Sterowane Servo
 Aby uruchomić program należy wcisnąć przycisk na pilocie. Aby włączyć tryb kontroli nad servem należy nacisnąć przycisk „POWER”.
 W lewym górnym rogu wyświetlacza znajduje się nazwa wybranej akcji.
